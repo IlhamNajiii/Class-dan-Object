@@ -1,0 +1,15 @@
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\TugasClassDanObject.csproj.AssemblyReference.cache
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\TugasClassDanObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\TugasClassDanObject.AssemblyInfoInputs.cache
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\TugasClassDanObject.AssemblyInfo.cs
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\TugasClassDanObject.csproj.CoreCompileInputs.cache
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\bin\Debug\net6.0\TugasClassDanObject.exe
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\bin\Debug\net6.0\TugasClassDanObject.deps.json
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\bin\Debug\net6.0\TugasClassDanObject.runtimeconfig.json
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\bin\Debug\net6.0\TugasClassDanObject.dll
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\bin\Debug\net6.0\TugasClassDanObject.pdb
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\TugasClassDanObject.dll
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\refint\TugasClassDanObject.dll
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\TugasClassDanObject.pdb
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\TugasClassDanObject.genruntimeconfig.cache
+D:\Amikom\semester 2\Pemrograman\Pertemuan 3\TugasClassDanObject\obj\Debug\net6.0\ref\TugasClassDanObject.dll
